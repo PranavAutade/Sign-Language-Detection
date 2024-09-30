@@ -1,1 +1,1 @@
-# Sign-Language-Detection
+# ML-Project-1
